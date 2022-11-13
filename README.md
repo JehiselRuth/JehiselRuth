@@ -1,12 +1,12 @@
 # Web Developer 
 ## (In process)
-### Hi, I’m @JehiselRuth. Absolutely beginner myself but I guess I'll be over here for a long time.
+### Hi, I’m @JehiselRuth. Beginner and coming soon an expert.
 
-_I’m interested in_ Deb Design
+》 _I’m interested in_ Web Design
 
-_I’m currently learning_ Web Development
+》 _I’m currently learning_ Web Development
 
-_I’m looking to collaborate on_ Frontend
+》 _I’m looking to collaborate_ specially on Frontend
 
 📫 How to reach me: jehisel.rrp@gmail.com
 
