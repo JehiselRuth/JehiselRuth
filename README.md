@@ -1,6 +1,6 @@
 # Web Developer 
 ## (Trainee)
-### Hi, I’m @JehiselRuth. Beginner and coming soon an expert.
+### Hi, I’m @JehiselRuth:
 
 》 _I’m interested in_ Web Design
 
