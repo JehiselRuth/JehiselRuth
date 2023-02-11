@@ -1,5 +1,5 @@
 # Web Developer 
-## (In process)
+## (Trainee)
 ### Hi, I’m @JehiselRuth. Beginner and coming soon an expert.
 
 》 _I’m interested in_ Web Design
