@@ -2,9 +2,9 @@
 ## (Trainee)
 ### Hi, I’m @JehiselRuth:
 
-》 _I’m interested in_ Web Design
+》 _I’m interested in learn about code
 
-》 _I’m currently learning_ Web Development
+》 _I’m currently learning_ Web Development to be fullstack developer
 
 》 _I’m looking to collaborate_ specially on Frontend
 
