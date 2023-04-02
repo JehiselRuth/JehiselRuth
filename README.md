@@ -1,4 +1,4 @@
-# Web Developer 
+# Fullstack Developer 
 ## (Trainee)
 ### Hi, I’m @JehiselRuth:
 
