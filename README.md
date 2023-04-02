@@ -6,7 +6,7 @@
 
 》 _I’m currently learning_ Web Development to be fullstack developer
 
-》 _I’m looking to collaborate_ specially on Frontend
+》 _I’m looking to collaborate_ on Frontend and backend
 
 📫 How to reach me: jehisel.rrp@gmail.com
 
