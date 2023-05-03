@@ -1,5 +1,5 @@
 # Fullstack Developer 
-## (Trainee)
+
 ### Hi, I’m @JehiselRuth:
 
 》 _I’m interested in learn about code
